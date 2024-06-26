@@ -1,0 +1,24 @@
+Package: plasFIA
+Version: 1.26.0
+Date: 2017-07-01
+Title: FIA-HRMS plasma dataset
+Author: Alexis Delabriere, Etienne Thevenot, Ulli Hohenester and
+        Christophe Junot.
+Maintainer: Alexis Delabriere <alexis.delabriere@outlook.fr>
+Depends: proFIA
+ZipData: no
+Description: Positive Ionization FIA-HRMS data of human plasma spiked
+        with a pool of 40 compounds acquired in FIA-HRMS mode on an
+        orbitrap fusion. plasFIA also include the result of the
+        processing by the proFIA package with adapted parameters for an
+        Orbitrap Fusion.
+biocViews: ExperimentData, MassSpectrometryData
+License: LGPL
+NeedsCompilation: no
+RoxygenNote: 6.0.1
+git_url: https://git.bioconductor.org/packages/plasFIA
+git_branch: RELEASE_3_16
+git_last_commit: 84ad9f1
+git_last_commit_date: 2022-11-01
+Date/Publication: 2022-11-03
+Packaged: 2022-11-03 15:20:57 UTC; biocbuild
